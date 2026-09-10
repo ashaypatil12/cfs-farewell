@@ -20,12 +20,6 @@ const colleagues = [
     message: "Simone, thank you for being the kind of manager who genuinely invests in people, not just projects. You always made time to talk about my growth, pushed me to set bigger goals, and trusted me with responsibility even when I was still learning. I've grown so much under your leadership — thank you for believing in me."
   },
   {
-    name: "Sean Lee",
-    role: "Skip Manager",
-    peek: "For the bigger picture you always showed me...",
-    message: "Sean, even though we didn't work together day-to-day, your leadership shaped the environment our whole team thrived in. Thank you for creating a culture where people feel safe to speak up, take ownership, and do their best work. It hasn't gone unnoticed."
-  },
-  {
     name: "Sravani Yalla",
     role: "Offshore Lead, Oracle HCM",
     peek: "For carrying the team on your shoulders...",
